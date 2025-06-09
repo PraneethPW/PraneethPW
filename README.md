@@ -33,7 +33,7 @@ Kalasalingam University (2022–2026)
 ## **📬 Let’s Connect!**  
 📧 **Email**: [praneethreddy0112@gmail.com](mailto:praneethreddy0112@gmail.com)  
 🔗 **LinkedIn**: [Praneeth Reddy](https://www.linkedin.com/in/praneeth-reddy-748229261/)  
-🐱 **GitHub**: [[Your GitHub Profile] *(Add if you have one!)* ](https://github.com/PraneethPW) 
+🐱 **GitHub**: [PraneethPW](https://github.com/PraneethPW) 
 
 ---
 
