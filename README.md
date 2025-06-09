@@ -1,6 +1,3 @@
-Here’s a super cool and polished version of your profile with better formatting, emojis, and visual appeal:
-
----
 
 # **👨‍💻 Praneeth Reddy**  
 *Biotech Undergrad | Backend Developer | Biology + Tech Enthusiast*  
@@ -45,8 +42,3 @@ Kalasalingam University (2022–2026)
 ⚡ **Building**: Scalable backend systems  
 🧠 **Exploring**: BioTech + Software Synergies  
 
----
-
-### **🎨 Styled with**  
-[![Shields.io](https://img.shields.io/badge/Shields.io-121011?style=for-the-badge&logo=shieldsdotio&logoColor=white)](https://shields.io/)  
-*Badges by Shields.io for a pro look!*  
